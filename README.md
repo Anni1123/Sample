@@ -1,3 +1,3 @@
 # Sample
 SAMPLE
-Sample Project
+Sample Page
